@@ -17,7 +17,7 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
 ---
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Eric1Oliveira/Eric1Oliveira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
