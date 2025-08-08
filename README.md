@@ -15,7 +15,7 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
 
 - **ParkEase** — Sistema de controle de estacionamento com foco em usabilidade e eficiência. *(Python, PyQt5 – previsão: Outubro/2025)*
 - **MyNexora** — Plataforma imersiva 3D para e-commerce, unindo metaverso e funcionalidade real. *(Three.js, Next.js, Tailwind, Supabase, APIs de pagamento)*
-- **AuditSync** — Automação para leitura de PDFs e validação cruzada de dados corporativos. *(Python, Tkinter, Difflib, CSV)*
+- **AuditSync** — Automação para leitura de PDFs e validação cruzada de dados corporativos. *(Python, Tkinter, Difflib, CSV/Excel)*
 - **Finance Flow** — Aplicativo web simples e seguro para controle financeiro pessoal. *(HTML, JavaScript, Tailwind, Supabase)*
 
 ---
@@ -41,6 +41,7 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
 
 ### 🤖 Linguagens e Tecnologias
 
+#### **Front-end**
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -49,14 +50,27 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
 <img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Three.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+<br/><br/>
+
+#### **Back-end & Banco de Dados**
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Supabase" width="30px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/>
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<br/><br/>
+
+#### **Python & Automação**
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="PyQt5" width="30px" src="https://img.icons8.com/ios/50/pyqt.png"/>
+<img align="left" alt="Tkinter" width="30px" src="https://img.icons8.com/ios/50/tkinter.png"/>
+<img align="left" alt="Difflib" width="30px" src="https://img.icons8.com/fluency/48/code.png"/>
+<img align="left" alt="CSV/Excel" width="30px" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
+<br/><br/>
+
+#### **Ferramentas**
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="JSON" width="30px" src="https://img.icons8.com/fluency/48/json.png"/>
-<br/>
-<br/>
+<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<br/><br/>
 
 ---
 
