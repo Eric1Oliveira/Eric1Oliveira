@@ -1,69 +1,98 @@
-# 👨🏻‍💻 Eric Oliveira
+<!-- Top Gradient Banner -->
+<div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 15px;">
+  <h1 style="color: #00ffe7; font-weight: 900; font-family: 'Fira Code', monospace; font-size: 3.5rem; margin-bottom: 0;">Eric Oliveira</h1>
+  <h3 style="color: #70ffdb; font-weight: 600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 2px; margin-top: 0;">
+    🛠 Desenvolvedor FullStack | Criador de Experiências Imersivas 3D
+  </h3>
+  <p style="color: #9ef0f7; font-size: 1.2rem; max-width: 600px; margin: 10px auto 0;">
+    Código que conecta <strong>tecnologia + criatividade + impacto real</strong>. <br />
+    De automações inteligentes a mundos 3D — meu playground é o universo digital.
+  </p>
+</div>
 
-### Desenvolvedor FullStack Criativo & Explorador 3D
+---
 
-Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções reais. Curto criar experiências intuitivas e resolver problemas que fazem diferença na vida das pessoas. Tenho facilidade em aprender, sou proativo, paciente e penso fora da caixa. Atualmente, desenvolvo projetos que vão desde automações em Python até plataformas 3D imersivas com tecnologias web modernas.
+<!-- Animated Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00ffe7&width=600&lines=FullStack+Developer;Python+Automation+Wizard;3D+Web+Innovator;Problem+Solver;Always+Learning" alt="Typing Animation"/>
+</p>
+
+---
+
+## 🌐 Meu Universo Tecnológico
+
+<div align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto      | Descrição                                                                 | Tecnologias                        |
-|--------------|---------------------------------------------------------------------------|----------------------------------|
-| **ParkEase** | Sistema inteligente para controle de estacionamentos, focado em usabilidade e eficiência. | Python, PyQt5                    |
-| **MyNexora** | Plataforma 3D imersiva que integra e-commerce com metaverso.              | Three.js, Next.js, Tailwind, Supabase |
-| **AuditSync**| Automação para leitura e validação cruzada de documentos PDF corporativos.| Python, Tkinter, Difflib          |
-| **Finance Flow** | App web simples e seguro para controle financeiro pessoal.            | HTML, JavaScript, Tailwind, Supabase |
+<table>
+  <tr>
+    <th align="left">Projeto</th>
+    <th align="left">Descrição</th>
+    <th align="left">Tecnologias</th>
+  </tr>
+  <tr>
+    <td><strong>ParkEase</strong></td>
+    <td>Sistema inteligente de controle de estacionamento com interface intuitiva.</td>
+    <td>Python, PyQt5</td>
+  </tr>
+  <tr>
+    <td><strong>MyNexora</strong></td>
+    <td>Plataforma 3D imersiva que une e-commerce e metaverso.</td>
+    <td>Three.js, Next.js, Tailwind, Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>AuditSync</strong></td>
+    <td>Automação para leitura e validação cruzada de documentos PDF.</td>
+    <td>Python, Tkinter, Difflib</td>
+  </tr>
+  <tr>
+    <td><strong>Finance Flow</strong></td>
+    <td>App simples para controle financeiro pessoal, seguro e eficiente.</td>
+    <td>HTML, JavaScript, Tailwind, Supabase</td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📊 Estatísticas e Skills
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eric1Oliveira&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1Oliveira&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 📬 Conecte-se comigo
 
 <p align="center">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img alt="Supabase" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40" />
-  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <a href="https://eric1oliveira.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Portfólio" src="https://img.shields.io/badge/🌐%20Portfólio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eric-oliveira-9703671b5/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ericdudu1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Eric1Oliveira" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eric1Oliveira&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1Oliveira&theme=dark&layout=compact&langs_count=8" alt="Top Languages" width="350" />
-</p>
-
----
-
-## 📫 Contatos & Redes
-
-<p align="center">
-  <a href="https://eric1oliveira.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00ffd5?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/eric-oliveira-9703671b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffd5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ericdudu1999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00ffd5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://github.com/Eric1Oliveira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00ffd5?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center" style="font-style: italic; color: #00ffd5;">
-  "Código é arte. Criatividade é o motor. O mundo digital é minha tela."
-</p>
+<div align="center" style="font-style: italic; color: #00ffe7;">
+  "O código é minha arte, a tecnologia é minha tela e o mundo é meu palco."
+</div>
