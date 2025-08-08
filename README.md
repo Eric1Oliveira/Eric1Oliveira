@@ -5,30 +5,34 @@
 Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções reais. Curto criar experiências intuitivas e resolver problemas que fazem diferença na vida das pessoas. Tenho facilidade em aprender, sou proativo, paciente e penso fora da caixa.  
 Atualmente, desenvolvo projetos que vão desde automações em Python até plataformas 3D imersivas com tecnologias web modernas.
 
+🌐 **[Portfólio](https://eric1oliveira.github.io/portfolio/)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/eric-oliveira-9703671b5/)**  
+📧 **[E-mail](mailto:ericdudu1999@gmail.com)**  
+
 ---
 
 ### 🚀 Projetos em Destaque
 
-- **[ParkEase](#)** — Sistema de controle de estacionamento com foco em usabilidade e eficiência. *(Python, PyQt5 – previsão: Outubro/2025)*
-- **[MyNexora](#)** — Plataforma imersiva 3D para e-commerce, unindo metaverso e funcionalidade real. *(Three.js, Next.js, Tailwind, Supabase, APIs de pagamento)*
-- **[AuditSync](#)** — Automação para leitura de PDFs e validação cruzada de dados corporativos. *(Python, Tkinter, Difflib, CSV)*
-- **[Finance Flow](#)** — Aplicativo web simples e seguro para controle financeiro pessoal. *(HTML, JavaScript, Tailwind, Supabase)*
+- **ParkEase** — Sistema de controle de estacionamento com foco em usabilidade e eficiência. *(Python, PyQt5 – previsão: Outubro/2025)*
+- **MyNexora** — Plataforma imersiva 3D para e-commerce, unindo metaverso e funcionalidade real. *(Three.js, Next.js, Tailwind, Supabase, APIs de pagamento)*
+- **AuditSync** — Automação para leitura de PDFs e validação cruzada de dados corporativos. *(Python, Tkinter, Difflib, CSV)*
+- **Finance Flow** — Aplicativo web simples e seguro para controle financeiro pessoal. *(HTML, JavaScript, Tailwind, Supabase)*
 
 ---
 
 <p align="left">
-    <a href="https://github.com/Eric1Oliveira/Eric1Oliveira?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Eric1Oliveira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Eric1Oliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU-USUARIO?tab=followers">
+    <a href="https://github.com/Eric1Oliveira?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Eric1Oliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -63,12 +67,12 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Eric1Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
