@@ -53,10 +53,11 @@ Curto desafios, resolver problemas complexos e criar experiências que conectem 
 ---
 
 ## 📈 Estatísticas
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eric1Oliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric1Oliveira&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
+
 
 ---
 
