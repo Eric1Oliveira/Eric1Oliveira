@@ -60,8 +60,6 @@ Atualmente, desenvolvo projetos que vão desde automações em Python até plata
 
 #### **Python & Automação**
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="PyQt5" width="30px" src="https://img.icons8.com/ios/50/pyqt.png"/>
-<img align="left" alt="Tkinter" width="30px" src="https://img.icons8.com/ios/50/tkinter.png"/>
 <img align="left" alt="Difflib" width="30px" src="https://img.icons8.com/fluency/48/code.png"/>
 <img align="left" alt="CSV/Excel" width="30px" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png"/>
 <br/><br/>
