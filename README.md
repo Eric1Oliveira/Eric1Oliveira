@@ -1,5 +1,5 @@
 <!-- Banner ou frase de impacto -->
-<h1 align="center">✨ Eric Oliveira ✨</h1>
+<h1 align="center">Eric Oliveira</h1>
 <h3 align="center">Desenvolvedor FullStack & Criador de Experiências Digitais</h3>
 
 <p align="center">
